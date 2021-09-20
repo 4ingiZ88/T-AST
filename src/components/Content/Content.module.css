@@ -1,0 +1,14 @@
+.Content {
+  grid-area: C;
+  color: crimson;
+  background-color: white;
+  color: black;
+}
+
+.Content img {
+  width: 100%;
+  height: 200px;
+}
+.item {
+  color: blue;
+}

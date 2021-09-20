@@ -1,0 +1,15 @@
+.Header {
+  width: 100%;
+  grid-area: H;
+}
+
+.Header img {
+  width: 100px;
+  height: 80px;
+}
+
+.Header heading {
+  color:goldenrod;
+  font-size: 72px;
+  font-family: fantasy;
+}

@@ -1,0 +1,15 @@
+.nav {
+  grid-area: N;
+  background-color: white;
+}
+
+.item {
+  color: black;
+  font-size: 32px;
+  font-family: fantasy;
+}
+.item.active{
+  color:goldenrod;
+  font-size: 44px;
+  font-family: fantasy;
+}
